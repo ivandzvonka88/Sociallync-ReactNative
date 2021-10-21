@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lync.iml" filepath="$PROJECT_DIR$/.idea/modules/Lync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lync.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lync.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/631336110/Lync.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/631336110/Lync.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-767863776/Lync.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/-767863776/Lync.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1484579738/Lync.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1484579738/Lync.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-594200086/Lync.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-594200086/Lync.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1165960788/Lync.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-1165960788/Lync.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1286390524/Lync.react-native-fingerprint-scanner.iml" filepath="$PROJECT_DIR$/.idea/modules/1286390524/Lync.react-native-fingerprint-scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-947214784/Lync.react-native-firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/-947214784/Lync.react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1593671213/Lync.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1593671213/Lync.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/130103200/Lync.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/130103200/Lync.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2081344961/Lync.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-2081344961/Lync.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2129184155/Lync.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/-2129184155/Lync.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-913164337/Lync.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-913164337/Lync.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1133920426/Lync.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1133920426/Lync.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1604963602/Lync.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1604963602/Lync.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1201035193/Lync.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/1201035193/Lync.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1314656457/Lync.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1314656457/Lync.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1948946272/Lync.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/1948946272/Lync.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

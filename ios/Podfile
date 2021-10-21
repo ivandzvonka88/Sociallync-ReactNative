@@ -1,0 +1,44 @@
+require_relative '../node_modules/react-native/scripts/react_native_pods'
+require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
+
+platform :ios, '10.0'
+
+target 'Lync' do
+  config = use_native_modules!
+
+  use_react_native!(:path => config["reactNativePath"])
+
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+  # pod 'RNDateTimePicker', :path => '../node_modules/@react-native-community/datetimepicker/RNDateTimePicker.podspec'
+  pod 'react-native-webview', :path => '../node_modules/react-native-webview'
+
+  pod 'Firebase/Core','~> 6.25.0'
+  pod 'Firebase/Messaging','~> 6.25.0'
+  pod 'RNFirebase', :path => '../node_modules/react-native-firebase/ios'
+
+
+
+
+  target 'LyncTests' do
+    inherit! :complete
+    # Pods for testing
+  end
+
+  # Enables Flipper.
+  #
+  # Note that if you have use_frameworks! enabled, Flipper will not work and
+  # you should disable these next few lines.
+#  use_flipper!
+#  post_install do |installer|
+#    flipper_post_install(installer)
+  # end
+end
+
+target 'Lync-tvOS' do
+  # Pods for Lync-tvOS
+
+  target 'Lync-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+end

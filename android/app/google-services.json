@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "335625141703",
+    "firebase_url": "https://social-lync.firebaseio.com",
+    "project_id": "social-lync",
+    "storage_bucket": "social-lync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335625141703:android:1ceff2185f5cc00305ade2",
+        "android_client_info": {
+          "package_name": "com.brett.sociallync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335625141703-pvsmpdvq5uaukq4qo7kbbdvriir1r42i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdI4XnXE_zOLRK2sD6BCe6XZQRRphucx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335625141703-pvsmpdvq5uaukq4qo7kbbdvriir1r42i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335625141703-hjsv6t09pre7a1vd1s7arsmk780cgr73.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brett.sociallync"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335625141703:android:923842fa605fa2f905ade2",
+        "android_client_info": {
+          "package_name": "com.lync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335625141703-pvsmpdvq5uaukq4qo7kbbdvriir1r42i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdI4XnXE_zOLRK2sD6BCe6XZQRRphucx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335625141703-pvsmpdvq5uaukq4qo7kbbdvriir1r42i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335625141703-hjsv6t09pre7a1vd1s7arsmk780cgr73.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brett.sociallync"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
